@@ -1,4 +1,4 @@
-# Credit and Banking Data Dashboards
+# Banking Data Dashboards
 
 This repository contains two Power BI dashboards designed to provide insights into credit and banking data. These dashboards analyze various aspects of financial data, including credit card issues, bank account issues, and credit amount trends based on different factors such as purpose, job roles, and housing status.
 
